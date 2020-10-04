@@ -1,6 +1,6 @@
 {
   "name": "rajeshpillai",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My online resume/profile as npm package",
   "bin": {
     "rajeshpillai": "index.js"

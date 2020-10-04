@@ -16,7 +16,7 @@ const bio = `
 const social = `
   https://twitter.com/rajeshpillai
   https://github.com/rajeshpillai
-  https://teachyourself.com
+  https://teachyourselfcoding.com
 `;
 
 log(bio);

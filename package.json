@@ -1,0 +1,24 @@
+{
+  "name": "rajesh",
+  "version": "1.0.0",
+  "description": "My online resume/profile as npm package",
+  "bin": {
+    "rajesh": "index.js"
+  },
+  "keywords": [
+    "rajesh pillai",
+    "rajesh",
+    "pillai rajesh"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": "rajeshpillai/rajesh",
+  "author": {
+    "name": "Rajesh Pillai",
+    "email": "pillai.rajesh@gmail.com",
+    "url": "https://twitter.com/rajeshpillai"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}

@@ -2,14 +2,14 @@
 ## First seen on nodecli.com
 
 ```
-npx rajesh
+npx rajeshpillai
 ```
 
 # Usage
 To use the CLI run the following command:
 
 ```
-npx rajesh
+npx rajeshpillai
 ```
 
 
